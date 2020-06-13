@@ -1,6 +1,3 @@
-# hello-world
-my first repository for test
-Hello everyone!
+# Project 0
 
-This is my first repository on GITHUB.I am new to this programming world!
-But i am very much interested in making web & mobile applications for engineering stuff.
+Web Programming with Python and JavaScript
